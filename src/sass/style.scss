@@ -33,7 +33,7 @@ html.menu-active,
 }
 
 body {
-  font: 400 2em / 1.5em 'IBM Plex Serif', serif;
+  font: 400 2em / 1.5em 'IBM Plex Sans', serif;
   color: $color-blue-30;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -656,7 +656,7 @@ img[src$="#full"] {
 
 
 .inner {
-  max-width: 32em;
+  max-width: 38em;
   margin: 0 auto;
   padding: 0 2em;
 }
